@@ -15,19 +15,16 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
-![alt text](assets/images/screenshot.png)
+![alt text](/assets/bowtie-cat.png)
 
 ## Credits
-
 N/A
 
 ## License
-
 Please refer to the LICENSE in the repo.
 
 ## Features
 Pretty much none.
 
 ## How to Contribute
-
 Show me the money!
